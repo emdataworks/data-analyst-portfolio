@@ -4,10 +4,10 @@ Welcome to my data analysis portfolio! Here you'll find real-world projects demo
 
 ## 🔍 Featured Projects
 
-### 🎬 [Movie Genre Data Analysis](./movie-genre-analysis/)
+### 🎬 [Movie Genre Data Analysis](./Movie Genres Data Analysis Project)
 Analyzes IMDB data to explore genre trends, popularity, budget, and audience ratings.
 
-### 🛒 [Food Marketing Campaign Analysis](./food-marketing-analysis/)
+### 🛒 [Food Marketing Campaign Analysis](./Food Marketing Data Analysis Project)
 Uncovers patterns in customer spending and marketing campaign success.
 
 ---
