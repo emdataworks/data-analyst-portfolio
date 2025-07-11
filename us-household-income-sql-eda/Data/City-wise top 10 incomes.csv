@@ -1,0 +1,11 @@
+state_Name,City,"ROUND(AVG(Mean),1)"
+Alaska,"Delta Junction",242857.0
+"New Jersey","Short Hills",216503.0
+Pennsylvania,Narberth,194426.0
+Maryland,"Chevy Chase",194157.5
+Connecticut,Darien,192882.0
+Virginia,"Great Falls",192103.5
+"New York",Pelham,190909.0
+Virginia,Chantilly,190865.0
+Virginia,Mclean,188414.0
+"New York",Bronxville,188005.0
