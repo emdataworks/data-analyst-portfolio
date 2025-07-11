@@ -38,7 +38,7 @@ This project explores household income distribution across US states using SQL. 
 
 To complement the SQL analysis, a visualization dashboard was created to explore income distributions interactively.
 
-▶️ **View the Dashboard:** [ Power BI PDF]
+▶️ **View the Dashboard:** [Power BI PDF](https://github.com/emdataworks/data-analyst-portfolio/blob/9d33899d10183915598bbb0eadb079a39df5c2e2/us-household-income-sql-eda/US%20Household%20Income%20Vizualization.pdf)
 
 The dashboard includes:
 - Income averages by state
